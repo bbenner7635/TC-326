@@ -1,1 +1,1 @@
-worker: python tc-326.py
+worker: python TC-326.py
